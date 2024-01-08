@@ -1,0 +1,22 @@
+Applify - App Landing Page HTML
+
+
+Applify is a modern and responsive HTML5 Template. It’s perfect for showcasing mobile apps, modern tech and digital products.
+
+
+Files included:
+HTML Files
+CSS Files
+SASS/SCSS Files
+Javascript files
+Photoshop Device Mock-Ups
+PHP Files (Contact Form & Subscribe Form)
+HTML Email Responder Templates
+Grunt Task Runner File
+
+Important:
+UPDATING APPLIFY FROM VERSION 1 TO VERSION 2:
+Applify v2.0 has migrated from Bootstrap 3 to Bootstrap 4. Please make sure you read the documentation if you’re not similar with the migration process.
+
+Support:
+We are always happy to help. Submit a support ticket to get in touch.
